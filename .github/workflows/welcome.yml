@@ -20,5 +20,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: "🎉 Welcome! Thanks for opening your first pull request! We’ll review it soon. 🚀"
+              body: "🎉 Welcome!! Thanks for opening your first pull request! We’ll review it soon. 🚀"
             })
